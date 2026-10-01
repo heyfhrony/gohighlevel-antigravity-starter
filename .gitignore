@@ -1,0 +1,17 @@
+# Environment variables & secrets (NEVER commit real credentials)
+.env
+.env*.local
+*.env
+!.env.example
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

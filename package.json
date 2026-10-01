@@ -1,0 +1,29 @@
+{
+  "name": "gohighlevel-antigravity-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate connecting Google Antigravity to a GoHighLevel sub-account via Private Integration token and Location ID.",
+  "type": "module",
+  "author": "Farhad Hossen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "whoami": "node src/index.js whoami",
+    "example": "node example.js"
+  },
+  "keywords": [
+    "gohighlevel",
+    "ghl",
+    "leadconnector",
+    "antigravity",
+    "subaccount",
+    "crm",
+    "api",
+    "boilerplate"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
