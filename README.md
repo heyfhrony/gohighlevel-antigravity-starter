@@ -10,6 +10,14 @@ Designed specifically for managing **one Sub-Account**. Anyone can clone this re
 
 ---
 
+## 📺 Video Walkthrough
+
+Watch the full setup and demo video here:
+
+[![Watch the video](https://img.youtube.com/vi/XgqGUWnEz6U/maxresdefault.jpg)](https://youtu.be/XgqGUWnEz6U)
+
+---
+
 ## 📋 Prerequisites
 
 Before you start, make sure you have:
